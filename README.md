@@ -1,21 +1,14 @@
+## Hello, I am [@RandomMonkey99](github.com/randommonkey99)
 
-<!DOCTYPE html>
-<html lang="en">
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/175962106?s=400&v=4" alt="" width="150" height="150" style="border-radius: 50%;">
+</div>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+![randommonkey99's Stats](https://github-readme-stats.vercel.app/api?username=randommonkey99&theme=transparent&show_icons=true&hide_border=true&count_private=false)
 
-<body>
-    <h2>Hello, I am @RandomMonkey99</h2>
-    <p>My languages are:</p>
-    <div class="badges">
-        <img src="https://img.shields.io/badge/html-orange?logo=html5&logoColor=white" alt="HTML badge">
-        <img src="https://img.shields.io/badge/css-blue?logo=css3&logoColor=white" alt="CSS badge">
-        <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white" alt="JavaScript badge">
-        <img src="https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=white" alt="Python badge">
-    </div>
-</body>
+My languages are:
 
-</html>
+![HTML badge](https://img.shields.io/badge/html-orange?logo=html5&logoColor=white)
+![CSS badge](https://img.shields.io/badge/css-blue?logo=css3&logoColor=white)
+![JavaScript badge](https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white)
+![Python badge](https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=white)
